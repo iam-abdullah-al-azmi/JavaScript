@@ -1,6 +1,6 @@
 # JavaScript
 
-Link to the resource: [https://www.youtube.com/watch?v=EerdGm-ehJQ&t=891s](https://www.youtube.com/watch?v=EerdGm-ehJQ&t=891s)
+Link to the resource: [https://www.youtube.com/watch?v=EerdGm-ehJQ](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 
 The contents of this learning repository are as follow:
 
